@@ -13,3 +13,5 @@ This project is built using the following core technologies:
 
 React, React Router, Javascript, TailwindCSS, DaisyUI
 
+Live Link: https://totopia.netlify.app/
+
